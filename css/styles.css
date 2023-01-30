@@ -178,6 +178,14 @@ Secondary Color (Orange): #e0b354;
     /* reduces the opacity of the button to 80% */
     opacity: 0.8;
   }
+  .about-content {
+    max-width: 700px;
+      margin: 0 auto;
+      text-align: center;
+  }
+  .about-list {
+    padding-left: 0px;
+  }
   @keyframes color-change {
     0% {
       fill: #edc655;
